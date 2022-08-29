@@ -1,0 +1,8 @@
+trace: false
+debug: false
+paperlessApiUrl: https://PAPERLESS_DOMAIN/api
+paperlessUsername: PAPERLESS_USER
+paperlessPassword: PAPERLESS_PASSWORD
+scannerWebPort: 3000
+watchDirectoryPath: /opt/scanner/watch
+outgoingDirectoryPath: /opt/scanner/outgoing
